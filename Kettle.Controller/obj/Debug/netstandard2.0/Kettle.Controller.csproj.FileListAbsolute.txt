@@ -1,0 +1,12 @@
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Controller\obj\Debug\netstandard2.0\Kettle.Controller.csprojAssemblyReference.cache
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Controller\obj\Debug\netstandard2.0\Kettle.Controller.csproj.CoreCompileInputs.cache
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Controller\obj\Debug\netstandard2.0\Kettle.Controller.AssemblyInfoInputs.cache
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Controller\obj\Debug\netstandard2.0\Kettle.Controller.AssemblyInfo.cs
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Controller\bin\Debug\netstandard2.0\Kettle.Controller.deps.json
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Controller\bin\Debug\netstandard2.0\Kettle.Controller.dll
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Controller\bin\Debug\netstandard2.0\Kettle.Controller.pdb
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Controller\bin\Debug\netstandard2.0\BDL.Kettle.Model.dll
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Controller\bin\Debug\netstandard2.0\BDL.Kettle.Model.pdb
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Controller\obj\Debug\netstandard2.0\Kettle.Controller.csproj.CopyComplete
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Controller\obj\Debug\netstandard2.0\Kettle.Controller.dll
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Controller\obj\Debug\netstandard2.0\Kettle.Controller.pdb

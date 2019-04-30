@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>BDL.Kettle.Model</PackageId>
+    <Authors>Brand Developers</Authors>
+    <Company>Brand Developers</Company>
+    <Product>Kettle Test</Product>
+    <Copyright>@ 2018 Brand Developers</Copyright>
+    <PackageProjectUrl>https://github.com/BrandDevelopers/Kettle</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/BrandDevelopers/Kettle</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <AssemblyName>BDL.Kettle.Model</AssemblyName>
+    <RootNamespace>BDL.Kettle.Model</RootNamespace>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Model\bin\Debug\netstandard2.0\BDL.Kettle.Model.deps.json
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Model\bin\Debug\netstandard2.0\BDL.Kettle.Model.dll
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Model\bin\Debug\netstandard2.0\BDL.Kettle.Model.pdb
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Model\obj\Debug\netstandard2.0\Kettle.Model.csprojAssemblyReference.cache
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Model\obj\Debug\netstandard2.0\Kettle.Model.csproj.CoreCompileInputs.cache
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Model\obj\Debug\netstandard2.0\Kettle.Model.AssemblyInfoInputs.cache
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Model\obj\Debug\netstandard2.0\Kettle.Model.AssemblyInfo.cs
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Model\obj\Debug\netstandard2.0\BDL.Kettle.Model.dll
+C:\Users\Rashi Shandiliya\Downloads\Kettle\Kettle\Kettle.Model\obj\Debug\netstandard2.0\BDL.Kettle.Model.pdb
